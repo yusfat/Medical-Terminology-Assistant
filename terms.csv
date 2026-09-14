@@ -1,0 +1,304 @@
+type,term,meaning,category
+prefix,a- / an-,without / not,General
+prefix,ab-,away from,General
+prefix,ad-,toward,General
+prefix,ante-,before,General
+prefix,anti-,against,General
+prefix,bi-,two,General
+prefix,brady-,slow,General
+prefix,dys-,difficult / bad / painful,General
+prefix,endo-,within / inside,General
+prefix,epi-,upon / on top of,General
+prefix,hyper-,excessive / above normal,General
+prefix,hypo-,below / deficient,General
+prefix,inter-,between,General
+prefix,intra-,within,General
+prefix,macro-,large,General
+prefix,micro-,small,General
+prefix,peri-,around,General
+prefix,poly-,many,General
+prefix,post-,after,General
+prefix,pre-,before,General
+prefix,sub-,under / below,General
+prefix,tachy-,fast,General
+prefix,trans-,across,General
+prefix,auto-,self,General
+prefix,contra-,against / opposite,General
+prefix,extra-,outside of,General
+prefix,hemi-,half,General
+prefix,mono-,one,General
+prefix,neo-,new,General
+prefix,para-,beside / near,General
+prefix,retro-,behind / backward,General
+prefix,semi-,half / partly,General
+prefix,uni-,one,General
+root,cardi/o,heart,Cardiovascular
+root,neur/o,nerve,Nervous
+root,gastr/o,stomach,Digestive
+root,hepat/o,liver,Digestive
+root,nephr/o / ren/o,kidney,Urinary
+root,oste/o,bone,Musculoskeletal
+root,arthr/o,joint,Musculoskeletal
+root,my/o,muscle,Musculoskeletal
+root,derm/o / dermat/o,skin,Integumentary
+root,pneum/o / pulmon/o,lung,Respiratory
+root,hem/o / hemat/o,blood,Blood
+root,encephal/o,brain,Nervous
+root,cyst/o,bladder,Urinary
+root,enter/o,intestine,Digestive
+root,col/o,colon,Digestive
+root,ophthalm/o,eye,Special Senses
+root,ot/o,ear,Special Senses
+root,rhin/o,nose,Respiratory
+root,thromb/o,clot,Cardiovascular
+root,angi/o / vas/o,vessel,Cardiovascular
+root,cyt/o,cell,General
+root,hist/o,tissue,General
+root,adren/o,adrenal gland,Endocrine
+root,aden/o,gland,Endocrine
+root,bronch/o,bronchus,Respiratory
+root,cholecyst/o,gallbladder,Digestive
+root,colp/o,vagina,Reproductive
+root,crani/o,skull,Nervous
+root,enter/o,intestine,Digestive
+root,gloss/o,tongue,Digestive
+root,gynec/o,female,Reproductive
+root,lith/o,stone,General
+root,mamm/o,breast,Reproductive
+root,mening/o,meninges,Nervous
+root,ne/o,new,General
+root,path/o,disease,General
+root,splen/o,spleen,Lymphatic
+root,trache/o,trachea,Respiratory
+root,ur/o,urine,Urinary
+root,ven/o,vein,Cardiovascular
+root,xer/o,dry,General
+suffix,-itis,inflammation,General
+suffix,-ology / -logy,study of,General
+suffix,-ectomy,surgical removal,General
+suffix,-oma,tumor / mass,General
+suffix,-pathy,disease,General
+suffix,-algia / -dynia,pain,General
+suffix,-emia,blood condition,General
+suffix,-megaly,enlargement,General
+suffix,-scopy,visual examination,General
+suffix,-gram,record,General
+suffix,-graphy,process of recording,General
+suffix,-plasty,surgical repair,General
+suffix,-osis,abnormal condition,General
+suffix,-penia,deficiency,General
+suffix,-rrhea,flow / discharge,General
+suffix,-cyte,cell,General
+suffix,-centesis,surgical puncture,General
+suffix,-desis,fusion / binding,General
+suffix,-genic,producing / originating in,General
+suffix,-lysis,destruction / breakdown,General
+suffix,-phagia,eating / swallowing,General
+suffix,-phasia,speech,General
+suffix,-phobia,fear,General
+suffix,-ptosis,drooping / prolapse,General
+suffix,-rrhage,bursting forth,General
+suffix,-rrhaphy,suturing,General
+suffix,-stasis,controlling / stopping,General
+suffix,-tomy,incision,General
+suffix,-tripsy,crushing,General
+full,cardiology,study of the heart,Cardiovascular
+full,pericarditis,inflammation around the heart,Cardiovascular
+full,hypertension,high blood pressure,Cardiovascular
+full,hypotension,low blood pressure,Cardiovascular
+full,neuropathy,disease of the nerves,Nervous
+full,gastritis,inflammation of the stomach,Digestive
+full,hepatomegaly,enlargement of the liver,Digestive
+full,arthritis,inflammation of a joint,Musculoskeletal
+full,dermatitis,inflammation of the skin,Integumentary
+full,pneumonia,condition of the lungs,Respiratory
+full,anemia,lack of blood / low red cells,Blood
+full,tachycardia,fast heart rate,Cardiovascular
+full,bradycardia,slow heart rate,Cardiovascular
+full,leukocyte,white blood cell,Blood
+full,histology,study of tissues,General
+full,rhinoplasty,surgical repair of the nose,Respiratory
+full,appendectomy,surgical removal of the appendix,Digestive
+full,dyspnea,difficult breathing,Respiratory
+full,apnea,without breathing,Respiratory
+full,hemorrhage,bursting forth of blood,Blood
+full,myalgia,muscle pain,Musculoskeletal
+full,cardiomegaly,enlargement of the heart,Cardiovascular
+full,bronchitis,inflammation of the bronchi,Respiratory
+full,cystitis,inflammation of the bladder,Urinary
+full,nephritis,inflammation of the kidney,Urinary
+full,encephalitis,inflammation of the brain,Nervous
+full,meningitis,inflammation of the meninges,Nervous
+full,osteoporosis,porous bones,Musculoskeletal
+full,fracture,break in a bone,Musculoskeletal
+full,tendonitis,inflammation of a tendon,Musculoskeletal
+full,dermatology,study of the skin,Integumentary
+full,gastroenterology,study of stomach and intestines,Digestive
+full,nephrology,study of the kidneys,Urinary
+full,oncology,study of tumors,General
+full,ophthalmology,study of the eyes,Special Senses
+full,otitis,inflammation of the ear,Special Senses
+full,rhinitis,inflammation of the nose,Respiratory
+full,thrombosis,formation of a clot,Cardiovascular
+full,embolism,blockage by a clot,Cardiovascular
+full,leukemia,cancer of blood cells,Blood
+full,lymphoma,cancer of lymph tissue,Lymphatic
+full,biopsy,removal of tissue for study,General
+full,endoscopy,visual examination inside,General
+full,colostomy,surgical opening of the colon,Digestive
+full,hysterectomy,removal of the uterus,Reproductive
+full,mammogram,x-ray record of the breast,Reproductive
+full,laparoscopy,visual exam of abdomen,General
+full,arthroscopy,visual exam of a joint,Musculoskeletal
+full,neuralgia,nerve pain,Nervous
+full,hemolysis,destruction of red blood cells,Blood
+full,diuresis,increased urine production,Urinary
+full,dysphagia,difficulty swallowing,Digestive
+full,amenorrhea,absence of menstruation,Reproductive
+full,hemoptysis,coughing up blood,Respiratory
+full,epistaxis,nosebleed,Respiratory
+full,xeroderma,dry skin,Integumentary
+full,adenoma,glandular tumor,Endocrine
+full,adenitis,inflammation of a gland,Endocrine
+prefix,contra-,against / opposite,General
+prefix,hetero-,different / other,General
+prefix,homo-,same / alike,General
+prefix,iso-,equal / same,General
+prefix,mal-,bad / poor,General
+prefix,normo-,normal,General
+prefix,pseudo-,false,General
+prefix,pan-,all / entire,General
+root,aort/o,aorta,Cardiovascular
+root,arteri/o,artery,Cardiovascular
+root,atrio/o,atrium,Cardiovascular
+root,ventricul/o,ventricle,Cardiovascular
+root,capill/o,capillary,Cardiovascular
+root,cardiol/o,heart,Cardiovascular
+root,phleb/o,vein,Cardiovascular
+root,myel/o,bone marrow / spinal cord,Nervous
+root,ax/o,axis / nerve fiber,Nervous
+root,dendr/o,dendrite,Nervous
+root,gli/o,glial cells / neuroglia,Nervous
+root,esthes/o,sensation,Nervous
+root,alg/o,pain,Nervous
+root,psych/o,mind,Nervous
+root,duoden/o,duodenum,Digestive
+root,jejun/o,jejunum,Digestive
+root,ile/o,ileum,Digestive
+root,rect/o,rectum,Digestive
+root,proct/o,anus / rectum,Digestive
+root,esophag/o,esophagus,Digestive
+root,lapar/o,abdomen / abdominal wall,Digestive
+root,cholangi/o,bile duct,Digestive
+root,pancreat/o,pancreas,Digestive
+root,salping/o,fallopian tube,Reproductive
+root,oophor/o,ovary,Reproductive
+root,uter/o / metr/o,uterus,Reproductive
+root,cervic/o,cervix,Reproductive
+root,prostat/o,prostate,Reproductive
+root,orch/o / orchid/o,testis,Reproductive
+root,nephron/o,nephron,Urinary
+root,ureter/o,ureter,Urinary
+root,urethr/o,urethra,Urinary
+root,glomerul/o,glomerulus,Urinary
+root,pelvi/o,pelvis,Musculoskeletal
+root,chondr/o,cartilage,Musculoskeletal
+root,ligament/o,ligament,Musculoskeletal
+root,myos/o,muscle,Musculoskeletal
+root,ten/o / tend/o,tendon,Musculoskeletal
+root,sarc/o,flesh / connective tissue,Musculoskeletal
+root,alveol/o,alveolus,Respiratory
+root,pleur/o,pleura,Respiratory
+root,pharyng/o,pharynx,Respiratory
+root,laryng/o,larynx,Respiratory
+root,otit/o,ear,Special Senses
+root,retin/o,retina,Special Senses
+root,kerat/o,cornea,Special Senses
+root,lymph/o,lymph,Lymphatic
+root,immun/o,immune / protection,Immune
+root,onc/o,tumor,General
+root,necros/o,death of tissue,General
+root,sept/o,infection / septum,General
+root,tox/o,poison / toxin,General
+suffix,-blast,immature cell / embryonic cell,General
+suffix,-clast,cell that breaks down,General
+suffix,-lepsy,seizure,General
+suffix,-malacia,abnormal softening,General
+suffix,-pexy,surgical fixation,General
+suffix,-poiesis,formation / production,General
+suffix,-sclerosis,hardening,General
+suffix,-stenosis,narrowing / constriction,General
+suffix,-uria,condition of urine,Urinary
+suffix,-prandial,relating to a meal,General
+suffix,-genic,pertaining to production,General
+suffix,-oid,resembling,General
+suffix,-emia,presence in blood,General
+full,myocardial infarction,death of heart muscle due to blocked artery,Cardiovascular
+full,atherosclerosis,hardening and narrowing of arteries,Cardiovascular
+full,arrhythmia,abnormal heart rhythm,Cardiovascular
+full,angina pectoris,chest pain due to reduced blood flow to heart,Cardiovascular
+full,cerebrovascular accident,CVA / stroke, loss of brain function,Nervous
+full,multiple sclerosis,autoimmune disease causing demyelination,Nervous
+full,Parkinsonism,neurodegenerative disorder with tremors,Nervous
+full,meningoencephalitis,inflammation of brain and meninges,Nervous
+full,gastroesophageal reflux disease,GERD, stomach acid backflow,Digestive
+full,cholelithiasis,gallstones in gallbladder,Digestive
+full,pancreatitis,inflammation of the pancreas,Digestive
+full,diverticulitis,inflammation of diverticula in colon,Digestive
+full,cirrhosis,chronic liver disease with scarring,Digestive
+full,hemochromatosis,excess iron storage in tissues,Digestive
+full,nephrolithiasis,kidney stones,Urinary
+full,glomerulonephritis,inflammation of kidney glomeruli,Urinary
+full,pyelonephritis,inflammation of kidney and renal pelvis,Urinary
+full,uremia,excess urea and waste products in blood,Urinary
+full,polycystic kidney disease,genetic disorder with kidney cysts,Urinary
+full,osteoarthritis,degeneration of joint cartilage,Musculoskeletal
+full,rheumatoid arthritis,autoimmune joint inflammation,Musculoskeletal
+full,spondylosis,degeneration of spinal discs and joints,Musculoskeletal
+full,myopathy,disease of muscle tissue,Musculoskeletal
+full,tendinopathy,disease of tendon,Musculoskeletal
+full,chondromalacia,softening of cartilage,Musculoskeletal
+full,psoriasis,chronic autoimmune skin disease,Integumentary
+full,urticaria,hives, raised itchy skin rash,Integumentary
+full,necrotizing fasciitis,bacterial infection destroying tissue,Integumentary
+full,asthma,chronic airway inflammation and constriction,Respiratory
+full,chronic obstructive pulmonary disease,COPD,Respiratory
+full,pulmonary embolism,blood clot in pulmonary artery,Respiratory
+full,pleurisy,inflammation of pleura,Respiratory
+full,bronchiectasis,abnormal dilation of bronchi,Respiratory
+full,interstitial lung disease,scarring of lung tissue,Respiratory
+full,leukocytosis,increased white blood cells,Blood
+full,thrombocytopenia,low platelet count,Blood
+full,hemophilia,inherited bleeding disorder,Blood
+full,polycythemia,excess red blood cells,Blood
+full,sepsis,systemic response to infection,Blood
+full,lymphadenopathy,enlarged lymph nodes,Lymphatic
+full,splenomegaly,enlargement of the spleen,Lymphatic
+full,diabetes mellitus,chronic high blood glucose,Endocrine
+full,hyperthyroidism,excess thyroid hormone,Endocrine
+full,hypothyroidism,deficient thyroid hormone,Endocrine
+full,Addison disease,adrenal insufficiency,Endocrine
+full,Cushing syndrome,excess cortisol production,Endocrine
+full,endometriosis,uterine tissue growing outside uterus,Reproductive
+full,polycystic ovary syndrome,PCOS, hormonal disorder,Reproductive
+full,benign prostatic hyperplasia,enlarged prostate,BPH,Reproductive
+full,glaucoma,increased intraocular pressure damaging optic nerve,Special Senses
+full,cataract,clouding of the lens of the eye,Special Senses
+full,otitis media,inflammation of middle ear,Special Senses
+full,sensorineural hearing loss,nerve-related hearing loss,Special Senses
+full,conjunctivitis,inflammation of conjunctiva,Special Senses
+full,anaphylaxis,severe allergic reaction,Immune
+full,autoimmune disease,body attacks its own tissues,Immune
+full,immunodeficiency,impaired immune response,Immune
+full,carcinoma,cancer arising from epithelial cells,General
+full,sarcoma,cancer arising from connective tissue,General
+full,metastasis,spread of cancer to other sites,General
+full,necrosis,death of cells or tissue,General
+full,ischemia,reduced blood supply to tissue,General
+full,iatrogenic,caused by medical treatment,General
+full,idiopathic,disease of unknown cause,General
+full,prognosis,predicted outcome of disease,General
+full,pathophysiology,functional changes in disease,General
+full,chemotherapy,chemical treatment for cancer,General
+full,radiotherapy,treatment using radiation,General
+full,immunotherapy,treatment using immune system,General
